@@ -51,7 +51,7 @@ parameters:
 
     phantomjs.template.template_renderer.class: JonnyW\PhantomJs\Template\TemplateRenderer
     phantomjs.twig.environment.class: Twig\Environment
-    phantomjs.twig.lexer.class: Twig\Error\SyntaxError
+    phantomjs.twig.lexer.class: Twig\Error\Error
     phantomjs.twig.array_loader.class: Twig\Loader\ArrayLoader
 
 ##################
